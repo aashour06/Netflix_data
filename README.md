@@ -54,7 +54,6 @@ The objective is to transform raw Netflix content data into structured insights 
 - Python  
 - Pandas  
 - Matplotlib  
-- Seaborn  
 - Jupyter Notebook  
 
 ---
