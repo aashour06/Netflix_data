@@ -1,0 +1,26 @@
+Cleaning Qs
+Q1: Is the show_id column important? If yes, use it; if not, drop it.
+Q2: Fill missing values in the type column with 100% accuracy.
+Q3: Identify the three columns with the most missing values and replace them.
+Q4: Clean the date_added column and generate year_added and month_added columns.
+Q5: After solving Q4, generate the season column.
+
+
+
+Analysis Qs
+Q1: What is the most common year_added? (Return a single value using pandas).
+Q2: What is the most common rating?
+
+
+
+Visualization Qs
+Q1: What is the distribution of Movies vs. TV Shows by percentage?
+Q2: Which countries produce the most content on Netflix?
+Q3: What are the top 10 most common ratings (e.g., PG-13, TV-MA)?
+Q4: Plot the top 10 directors who have the most movies.
+Q5: Visualize the durations of TV Shows.
+
+
+Bonus
+Generate actor1 and actor2 columns from the cast column
+Plot the top 10 actors (actor1) base on their appearances in Movies/TV Shows
