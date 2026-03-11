@@ -15,7 +15,7 @@ The objective is to transform raw Netflix content data into structured insights 
 
 # 🧹 Data Cleaning
 
-- Dropped `show_id` (unique identifier with no analytical value).
+- `show_id` (unique identifier).
 - Handled missing values across the dataset.
 - Ensured 100% accurate handling of missing values in `type`.
 - Identified and treated the top 3 columns with the highest null values.
